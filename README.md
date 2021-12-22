@@ -1,3 +1,7 @@
+#pip install
+pip install paramiko
+
+
 # sftp_manger
 sftp_manger
 
